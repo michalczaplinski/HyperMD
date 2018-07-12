@@ -14,11 +14,6 @@ import 'codemirror/addon/fold/foldgutter'
 import 'codemirror/addon/fold/markdown-fold'
 import 'codemirror/addon/edit/closebrackets'
 
-import 'codemirror/lib/codemirror.css'
-import 'codemirror/addon/fold/foldgutter.css'
-
-import '../theme/hypermd-light.css'
-
 // if (HyperMD_Mark in editor), the editor was a HyperMD mode at least once
 const HyperMD_Mark = '__hypermd__'
 
